@@ -44,6 +44,8 @@
     - [ ] XDebuggerBundle.properties
     - [X] XmlBundle.properties
     - [ ] XmlErrorMessages.properties
+
+
     * [ ] CompletionBundle.properties
     * [ ] JavaCoreBundle.properties
     * [ ] JavadocBundle.properties
