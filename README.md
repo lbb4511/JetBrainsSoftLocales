@@ -1,0 +1,2 @@
+# JetBrainsSoftLocales
+JetBrains soft globalization
