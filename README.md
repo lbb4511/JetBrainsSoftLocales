@@ -2,47 +2,4 @@
 JetBrains soft globalization
 
 
-- [ ] [zh_CN]
-    - [X] ActionsBundle.properties
-    - [X] AnalysisScopeBundle.properties
-    - [ ] T AntBundle.properties
-    - [X] ApplicationBundle.properties
-    - [ ] T CodeEditorBundle.properties
-    - [ ] T CodeInsightBundle.properties
-    - [X] CommonBundle.properties
-    - [ ] T CompilerBundle.properties
-    - [ ] T DaemonBundle.properties
-    - [ ] T DebuggerBundle.properties
-    - [ ] T DesignerBundle.properties
-    - [ ] T DiagnosticBundle.properties
-    - [ ] T DiffBundle.properties
-    - [ ] T DomBundle.properties
-    - [ ] T DupLocatorBundle.properties
-    - [X] EditorBundle.properties
-    - [ ] T ExecutionBundle.properties
-    - [ ] T FeatureStatisticsBundle.properties
-    - [ ] T FileTypesBundle.properties
-    - [X] FindBundle.properties
-    - [ ] T GraphBundle.properties
-    - [ ] T IdeBundle.properties
-    - [ ] T InspectionsBundle.properties
-    - [ ] T JamBundle.properties
-    - [ ] T KeyMapBundle.properties
-    - [ ] T LangBundle.properties
-    - [ ] T LicenseCommonBundle.properties
-    - [ ] T LocalHistoryBundle.properties
-    - [ ] T OptionsBundle.properties
-    - [ ] T ProjectBundle.properties
-    - [ ] T PsiBundle.properties
-    - [ ] T RefactoringBundle.properties
-    - [ ] T SMTestsRunnerBundle.properties
-    - [ ] T SSRBundle.properties
-    - [ ] T StatisticsBundle.properties
-    - [ ] T ToolsBundle.properties
-    - [ ] T UIBundle.properties
-    - [ ] T UsageView.properties
-    - [ ] T VcsBundle.properties
-    - [ ] T VfsBundle.properties
-    - [ ] T XDebuggerBundle.properties
-    - [X] XmlBundle.properties
-    - [ ] T XmlErrorMessages.properties
+- [ ] [ideaIC](./ideaIC)
