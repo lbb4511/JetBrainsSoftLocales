@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ede6828e-9093-49f8-a0e8-a558fb6d4dfb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ideaIC/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/java_resources_cn/JavaCoreBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/java_resources_cn/JavaCoreBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/java_resources_cn/JavaErrorMessages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/java_resources_cn/JavaErrorMessages.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/java_resources_cn/JavadocBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/java_resources_cn/JavadocBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/java_resources_cn/QuickFixBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/java_resources_cn/QuickFixBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/java_resources_en/JavaCoreBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/java_resources_en/JavaCoreBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/java_resources_en/JavaErrorMessages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/java_resources_en/JavaErrorMessages.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/java_resources_en/QuickFixBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/java_resources_en/QuickFixBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/ActionsBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/ActionsBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/ApplicationBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/ApplicationBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/CodeEditorBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/CodeEditorBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/CodeInsightBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/CodeInsightBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/CommonBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/CommonBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/CompilerBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/CompilerBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/DebuggerBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/DebuggerBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/DesignerBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/DesignerBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/DiagnosticBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/DiagnosticBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/DiffBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/DiffBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/ExecutionBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/ExecutionBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/FindBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/FindBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/IdeBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/IdeBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/InspectionsBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/InspectionsBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/LocalHistoryBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/LocalHistoryBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/OptionsBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/OptionsBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/ProjectBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/ProjectBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/RefactoringBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/RefactoringBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/SSRBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/SSRBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/UIBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/UIBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/VcsBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/VcsBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/VfsBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/VfsBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/XDebuggerBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/XDebuggerBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/XmlErrorMessages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/XmlErrorMessages.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/ActionsBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/ActionsBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/ApplicationBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/ApplicationBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/CodeInsightBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/CodeInsightBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/CommonBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/CommonBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/CompilerBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/CompilerBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/DebuggerBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/DebuggerBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/DiagnosticBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/DiagnosticBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/ExecutionBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/ExecutionBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/FindBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/FindBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/IdeBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/IdeBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/InspectionsBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/InspectionsBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/LangBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/LangBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/OptionsBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/OptionsBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/RefactoringBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/RefactoringBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/SSRBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/SSRBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/UIBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/UIBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/VcsBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/VcsBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/XDebuggerBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/XDebuggerBundle.properties" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-928445528">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="properties" value="73" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Properties" value="73" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ideaIC/resources_cn/CommonBundle.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bracket</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ideaIC/resources_cn/CommonBundle.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="816" />
+    <option name="y" value="101" />
+    <option name="width" value="1461" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JetBrainsSoftLocales" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JetBrainsSoftLocales" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JetBrainsSoftLocales" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JetBrainsSoftLocales" type="462c0819:PsiDirectoryNode" />
+              <item name="ideaIC" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534137479603" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ede6828e-9093-49f8-a0e8-a558fb6d4dfb" name="Default Changelist" comment="" />
+      <created>1534123679994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534123679994</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Learn" />
+      <window_info id="Capture Tool" />
+      <window_info id="DB Browser" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="DB Execution Console" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ideaIC/resources_cn/CommonBundle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
