@@ -2,74 +2,108 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ede6828e-9093-49f8-a0e8-a558fb6d4dfb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ideaIC/java_resources_cn/JavaCoreBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/java_resources_cn/JavaCoreBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/java_resources_cn/JavaErrorMessages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/java_resources_cn/JavaErrorMessages.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/java_resources_cn/QuickFixBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/java_resources_cn/QuickFixBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/java_resources_en/CompletionBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/java_resources_en/CompletionBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/java_resources_en/JavaCoreBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/java_resources_en/JavaCoreBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/java_resources_en/JavaErrorMessages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/java_resources_en/JavaErrorMessages.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/java_resources_en/JavadocBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/java_resources_en/JavadocBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/java_resources_en/QuickFixBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/java_resources_en/QuickFixBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/ActionsBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/ActionsBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/ApplicationBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/ApplicationBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/CodeInsightBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/CodeInsightBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/CommonBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/CommonBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/DebuggerBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/DebuggerBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/DiagnosticBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/DiagnosticBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/ExecutionBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/ExecutionBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/IdeBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/IdeBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/InspectionsBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/InspectionsBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/OptionsBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/OptionsBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/RefactoringBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/RefactoringBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/SMTestsRunnerBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/SMTestsRunnerBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/SSRBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/SSRBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/UIBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/UIBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/UsageView.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/UsageView.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/VcsBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/VcsBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/XmlBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_cn/XmlBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/ActionsBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/ActionsBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/AnalysisScopeBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/AnalysisScopeBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/AntBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/AntBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/ApplicationBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/ApplicationBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/CodeEditorBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/CodeEditorBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/CodeInsightBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/CodeInsightBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/CommonBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/CommonBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/CompilerBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/CompilerBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/DaemonBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/DaemonBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/DebuggerBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/DebuggerBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/DesignerBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/DesignerBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/DiagnosticBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/DiagnosticBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/DiffBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/DiffBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/DomBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/DomBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/DupLocatorBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/DupLocatorBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/EditorBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/EditorBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/ExecutionBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/ExecutionBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/FeatureStatisticsBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/FeatureStatisticsBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/FileTypesBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/FileTypesBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/FindBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/FindBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/GraphBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/GraphBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/IdeBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/IdeBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/InspectionsBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/InspectionsBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/JamBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/JamBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/KeyMapBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/KeyMapBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/LangBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/LangBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/LicenseCommonBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/LicenseCommonBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/LocalHistoryBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/LocalHistoryBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/OptionsBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/OptionsBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/ProjectBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/ProjectBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/PsiBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/PsiBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/RefactoringBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/RefactoringBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/SMTestsRunnerBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/SMTestsRunnerBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/SSRBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/SSRBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/StatisticsBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/StatisticsBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/ToolsBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/ToolsBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/UIBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/UIBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/UsageView.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/UsageView.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/VcsBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/VcsBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/VfsBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/VfsBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/XDebuggerBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/XDebuggerBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/XmlBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/XmlBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/XmlErrorMessages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ideaIC/resources_en/XmlErrorMessages.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/java_resources_cn/CompletionBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/java_resources_cn/JavaCoreBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/java_resources_cn/JavaErrorMessages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/java_resources_cn/JavadocBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/java_resources_cn/QuickFixBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/java_resources_en/CompletionBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/java_resources_en/JavaCoreBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/java_resources_en/JavaErrorMessages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/java_resources_en/JavadocBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/java_resources_en/QuickFixBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/ActionsBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/AnalysisScopeBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/AntBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/ApplicationBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/CodeEditorBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/CodeInsightBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/CommonBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/CommonQuickFixBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/CompilerBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/DaemonBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/DebuggerBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/DesignerBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/DiagnosticBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/DiffBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/DomBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/DupLocatorBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/EditorBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/ExecutionBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/FeatureStatisticsBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/FileTypesBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/FindBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/GraphBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/IdeBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/InspectionsBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/JamBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/KeyMapBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/LangBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/LicenseCommonBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/LocalHistoryBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/OptionsBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/ProjectBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/PsiBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/RefactoringBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/SMTestsRunnerBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/SSRBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/StatisticsBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/ToolsBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/UIBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/UsageView.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/VcsBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/VfsBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/XDebuggerBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/XmlBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_cn/XmlErrorMessages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/ActionsBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/AnalysisScopeBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/AntBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/ApplicationBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/CodeEditorBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/CodeInsightBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/CommonBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/CommonQuickFixBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/CompilerBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/DaemonBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/DebuggerBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/DesignerBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/DiagnosticBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/DiffBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/DomBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/DupLocatorBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/EditorBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/ExecutionBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/FeatureStatisticsBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/FileTypesBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/FindBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/GraphBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/IdeBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/InspectionsBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/JamBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/KeyMapBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/LangBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/LicenseCommonBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/LocalHistoryBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/OptionsBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/ProjectBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/PsiBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/RefactoringBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/SMTestsRunnerBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/SSRBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/StatisticsBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/ToolsBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/UIBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/UsageView.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/VcsBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/VfsBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/XDebuggerBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/XmlBundle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideaIC/resources_en/XmlErrorMessages.properties" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,58 +111,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ideaIC/resources_cn/CommonBundle.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ideaIC/resources_cn/ActionsBundle.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-12086">
-              <caret line="981" column="53" lean-forward="true" selection-start-line="981" selection-start-column="31" selection-end-line="981" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ideaIC/resources_cn/AnalysisScopeBundle.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ideaIC/resources_cn/CommonQuickFixBundle.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ideaIC/resources_cn/ExecutionBundle.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4028">
-              <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>bracket</find>
+      <find>R</find>
+      <find>New</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -140,6 +133,22 @@
         <option value="$PROJECT_DIR$/ideaIC/resources_cn/CommonBundle.properties" />
         <option value="$PROJECT_DIR$/ideaIC/resources_cn/ActionsBundle.properties" />
         <option value="$PROJECT_DIR$/ideaIC/resources_cn/CommonQuickFixBundle.properties" />
+        <option value="$PROJECT_DIR$/201901/java_resources_zh/messages/CompletionBundle.properties" />
+        <option value="$PROJECT_DIR$/201901/resources_zh/messages/ActionsBundle.properties" />
+        <option value="$PROJECT_DIR$/201901/resources_cn/messages/IdeBundle.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       </list>
     </option>
   </component>
@@ -168,8 +177,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,10 +193,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551461752096" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551461766716" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
@@ -219,9 +228,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
+    <frame x="-1" y="-1" width="2562" height="1042" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25198728" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25198412" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -230,6 +239,8 @@
       <window_info id="Learn" order="6" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="DB Browser" order="8" />
+      <window_info id="Alibaba Cloud Explorer" order="9" />
+      <window_info id="设计师" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -239,9 +250,12 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32962137" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.5194805" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="bottom" id="Docker" order="11" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="12" />
+      <window_info anchor="bottom" id="消息" order="13" />
+      <window_info active="true" anchor="bottom" id="找到" order="14" visible="true" weight="0.32900432" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -250,20 +264,23 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" visible="true" weight="0.09047619" />
+      <window_info anchor="right" id="Mongo Explorer" order="9" />
+      <window_info anchor="right" id="控制板" order="10" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ideaIC/resources_cn/CommonBundle.properties">
+    <entry file="file://$PROJECT_DIR$/ideaIC/resources_cn/ExecutionBundle.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        <state relative-caret-position="96">
+          <caret line="24" column="43" lean-forward="true" selection-start-line="24" selection-end-line="24" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ideaIC/resources_cn/ActionsBundle.properties">
+    <entry file="file://$PROJECT_DIR$/ideaIC/resources_cn/CommonQuickFixBundle.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12086">
-          <caret line="981" column="53" lean-forward="true" selection-start-line="981" selection-start-column="31" selection-end-line="981" selection-end-column="53" />
+        <state relative-caret-position="288">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -274,17 +291,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ideaIC/resources_cn/CommonQuickFixBundle.properties">
+    <entry file="file://$PROJECT_DIR$/ideaIC/resources_cn/CommonBundle.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        <state>
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ideaIC/resources_cn/ExecutionBundle.properties">
+    <entry file="file://$PROJECT_DIR$/ideaIC/resources_cn/ActionsBundle.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4028">
-          <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        <state relative-caret-position="528">
+          <caret line="33" column="33" lean-forward="true" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/resources_zh/r/messages/ActionsBundle.properties" />
+    <entry file="file://$PROJECT_DIR$/201901/java_resources_en/messages/CompletionBundle.properties" />
+    <entry file="file://$PROJECT_DIR$/201901/java_resources_zh/messages/CompletionBundle.properties" />
+    <entry file="file://$PROJECT_DIR$/201901/resources_zh/search/intellij.java.compiler.impl.searchableOptions.xml" />
+    <entry file="file://$PROJECT_DIR$/201901/resources_zh/messages/ActionsBundle.properties" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/201901/resources_cn/messages/IdeBundle.properties" />
+    <entry file="file://$PROJECT_DIR$/ideaIC/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ideaIC/java_resources_cn/CompletionBundle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="72" selection-start-column="52" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ideaIC/resources_cn/messages/ActionsBundle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
